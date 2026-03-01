@@ -116,7 +116,7 @@ scamsnipper/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/sumitsharma29/scamsnipper.git
+git clone https://github.com/sujal2120/scamsnipper.git
 cd scamsnipper
 
 # 2. Install dependencies
